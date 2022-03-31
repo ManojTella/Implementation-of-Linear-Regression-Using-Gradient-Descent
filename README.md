@@ -53,7 +53,7 @@ plt.show()
 ```
 
 ## Output:
-![linear regression using gradient descent](plot.jpg)
+![linear regression using gradient descent](plot.png)
 
 
 ## Result:
